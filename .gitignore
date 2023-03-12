@@ -1,4 +1,10 @@
 .idea
 *.iml
 target/
+<<<<<<< HEAD
 ignore.txt
+=======
+ignore.txt
+ignore2.txt
+
+>>>>>>> fc4805c9652a437fd83bde1a99e4210cf0282494
